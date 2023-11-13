@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/tikkiwasim" target="blank"><img src="https://img.shields.io/twitter/follow/tikkiwasim?logo=twitter&style=for-the-badge" alt="tikkiwasim" /></a> </p>
 
-- 🌱 I’m currently learning **java , linux , webDevelopment**
+- 🌱 I’m currently learning **Python , MySQL , webDevelopment**
 
-- 💬 Ask me about **linux ,kali linux , java ...**
+- 💬 Ask me about **Python, MySQL, JavaScript, React, kali linux, java ...**
 
 - 📫 How to reach me **wasimraja1231wlk@gmail.com** 
 
