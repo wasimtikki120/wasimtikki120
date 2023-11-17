@@ -23,5 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasimtikki120&show_icons=true&locale=en&layout=compact" alt="wasimtikki120" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasimtikki120&show_icons=true&locale=en" alt="wasimtikki120" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasimtikki120&show_icons=true&locale=en&theme=dracula" /></p>
 
