@@ -2,7 +2,7 @@
 <h3 align="center">Algorithm: Word used by programmers when they don’t want to explain what they did.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimtikki120&label=Profile%20views&color=0e75b6&style=flat" alt="wasimtikki120" /> </p>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="code" width="400" >
 
 <p align="left"> <a href="https://twitter.com/tikkiwasim" target="blank"><img src="https://img.shields.io/twitter/follow/tikkiwasim?logo=twitter&style=for-the-badge" alt="tikkiwasim" /></a> </p>
 
