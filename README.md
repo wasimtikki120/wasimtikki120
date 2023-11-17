@@ -2,7 +2,6 @@
 <h3 align="center">Algorithm: Word used by programmers when they don’t want to explain what they did.</h3>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="code" width="400" >
-<br>
 
 - 🌱 I’m currently learning **Python , MySQL , webDevelopment**
 
