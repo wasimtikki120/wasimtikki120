@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python , MySQL , webDevelopment**
 
-- 💬 Ask me about **Python, MySQL, JavaScript, React, kali linux, java ...**
+- 💬 Ask me about **Python,AWS, MySQL, JavaScript, React, Angular, Bootstrap, Django ...**
 
 - 📫 How to reach me **wasimtikki0721@gmail.com** 
 
