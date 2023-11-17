@@ -24,6 +24,6 @@
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasimtikki120&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false&order=2&exclude_repo=Online-Examination-System" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wasimtikki120&show_icons=true&locale=en&theme=dracula" width="390" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=wasimtikki120&show_icons=true&locale=en&theme=dracula" width="395" />
 
 </div>
