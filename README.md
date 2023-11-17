@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Wasim Tikki</h1> 
 <h3 align="center">Algorithm: Word used by programmers when they don’t want to explain what they did.</h3>
-</ br>
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="code" width="400" >
 
 
@@ -8,7 +8,8 @@
 
 - 💬 Ask me about **Python,AWS, MySQL, JavaScript, React, Angular, Bootstrap, Django ...**
 
-- 📫 How to reach me **wasimtikki0721@gmail.com** 
+- 📫 How to reach me [**wasimtikki0721@gmail.com**](mailto:wasimtikki0721@gmail.com) <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="20"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
