@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python , MySQL , webDevelopment**
 
-- 💬 Ask me about **Python,AWS, MySQL, JavaScript, React, Angular, Bootstrap, Django ...**
+- 💬 Ask me about **Python, AWS, MySQL, JavaScript, React, Angular, Bootstrap, Django ...**
 
 - 📫 How to reach me [**Wasim Tikki**](mailto:wasimtikki0721@gmail.com) <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="25"/>
 
