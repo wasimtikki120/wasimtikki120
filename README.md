@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Wasim Tikki</h1> 
-<br>
 <h3 align="center">Algorithm: Word used by programmers when they don’t want to explain what they did.</h3>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="code" width="400" >
-
+<br>
 
 - 🌱 I’m currently learning **Python , MySQL , webDevelopment**
 
@@ -11,7 +10,7 @@
 
 - 📫 How to reach me [**Wasim Tikki**](mailto:wasimtikki0721@gmail.com) <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="25"/>
 
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tikkiwasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tikkiwasim" height="30" width="40" /></a>
