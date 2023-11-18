@@ -28,4 +28,4 @@
 </div>
 <br>
 <br>
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=wasimtikki120&theme=dracula" width="395" />
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=wasimtikki120&theme=dracula" width="700" />
