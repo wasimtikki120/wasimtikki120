@@ -30,7 +30,6 @@
 <br>
 <br>
 <br>
-<br>
 <h3 align="left">🏆 GitHub Profile Trophy:</h3>
 
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=wasimtikki120&theme=dracula" width="715" />
