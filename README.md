@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, AWS, MySQL, JavaScript, React, Angular, Bootstrap, Django ...**
 
-- 📫 How to reach me [**Wasim Tikki**](mailto:wasimtikki0721@gmail.com) <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="25"/>
+- 📫 How to reach me [**Wasim Tikki**](mailto:m.wasimtikki@gmail.com) <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="25"/>
 
 <br>
 <h3 align="left">Connect with me:</h3>
