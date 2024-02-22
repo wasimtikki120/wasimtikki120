@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Wasim Tikki</h1> 
 <h3 align="center">Algorithm: Word used by programmers when they don’t want to explain what they did.</h3>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="code" width="400" >
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="code" width="400" >
 
 - 🌱 I’m currently learning **Python , MySQL , webDevelopment**
 
