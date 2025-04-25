@@ -37,7 +37,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://www.mendix.com/" target="_blank"><img src="https://cdn.brandfetch.io/idBxdmVdhR/w/820/h/246/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="150" height="40" alt="Mendix"/></a>
+  <a href="https://www.mendix.com/" target="_blank"><img src="https://cdn.brandfetch.io/idBxdmVdhR/w/820/h/246/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="120" height="40" alt="Mendix"/></a>
   <span style="margin-right: 15px;"></span>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/></a>
   <span style="margin-right: 15px;"></span>
