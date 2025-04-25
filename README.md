@@ -53,6 +53,33 @@
 
 ---
 
+
+### 🛠 Technical Skills
+
+**Mendix Development:**
+- Configured UIs, workflows, and data models with Mendix Studio Pro
+- Integrated APIs and external systems for better performance
+- Conducted testing to ensure seamless deployments
+- Collaborated with teams to deliver efficient solutions
+- Designed user-friendly, responsive UIs for asset management systems
+
+**Languages & Frameworks:**
+- Python (Django, Flask)
+- JavaScript (React, Angular, Node.js)
+- Java (Android Development)
+- Dart (Flutter)
+
+**Cloud & DevOps:**
+- AWS (EC2, S3, Lambda, RDS)
+- CI/CD Pipelines, Docker, Linux
+
+**Databases:**
+- MySQL, MongoDB, PostgreSQL
+
+---
+
+---
+
 ### 🎯 Fun Fact
 > 🧠 I don’t need a debugger, I just stare at the code until it confesses.
 
