@@ -33,24 +33,26 @@
 </p>
 
 ---
+<style>
+  .tool-icon {
+    margin-right: 20px;
+  }
+</style>
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://www.mendix.com/" target="_blank"><img src="https://cdn.brandfetch.io/idBxdmVdhR/w/820/h/246/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="120" height="40" alt="Mendix" style="margin-right: 15px;"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" style="margin-right: 15px;"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" style="margin-right: 15px;"/></a>
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" style="margin-right: 15px;"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" style="margin-right: 15px;"/></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/7858/7858975.png" width="40" height="40" alt="UI/UX" style="margin-right: 15px;"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" style="margin-right: 15px;"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" style="margin-right: 15px;"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" style="margin-right: 15px;"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" style="margin-right: 15px;"/></a>
+  <a href="https://www.mendix.com/" target="_blank"><img class="tool-icon" src="https://cdn.brandfetch.io/idBxdmVdhR/w/820/h/246/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="120" height="40" alt="Mendix"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/></a>
+  <a href="https://www.python.org" target="_blank"><img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+  <a href="https://developer.android.com" target="_blank"><img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/></a>
+  <a href="https://flutter.dev" target="_blank"><img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/></a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img class="tool-icon" src="https://cdn-icons-png.flaticon.com/512/7858/7858975.png" width="40" height="40" alt="UI/UX"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img class="tool-icon" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
 </p>
-
-
-
 
 
 
