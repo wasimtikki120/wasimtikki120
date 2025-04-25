@@ -85,23 +85,22 @@
 ### 📜 Certifications
 
 - **AWS Certified Cloud Practitioner**  
-  *Issued: June 22, 2022 – Expires: June 22, 2025*  
-  [View Credentials](#)
+  [View Credentials](https://www.credly.com/badges/b8e25b0d-519f-489b-af03-efc6a0c9b6bc/public_url)
 
 - **Mendix Rapid Developer**  
-  [View Credentials](#)
+  [View Credentials](https://drive.google.com/file/d/1yyYZJt5jI91BJU9HhvGVfgAx9HVIdN9s/view?usp=sharing)
 
 - **AWS Cloud Technical Essentials**  
-  [View Credentials](#)
+  [View Credentials](https://www.coursera.org/account/accomplishments/verify/D239P39ZMKDV)
 
 - **AWS Academy Graduate – Cloud Foundations**  
-  [View Credentials](#)
+  [View Credentials](https://www.credly.com/badges/493efaed-4f70-49ff-8414-163782ac5a71/public_url)
 
 - **Cisco CyberOps Associate**  
-  [View Credentials](#)
+  [View Credentials](https://www.credly.com/badges/2c7c587f-6d97-4010-acf3-f95f08dbd391/public_url)
 
 - **Python for Developers**  
-  [View Credentials](#)
+  [View Credentials](https://drive.google.com/file/d/1vubwRiIdonp4OF8NiHtlZ6a6ScuTDmeH/view)
 
 ---
 
