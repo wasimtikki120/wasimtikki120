@@ -37,7 +37,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://www.mendix.com/" target="_blank"><img src="https://cdn.brandfetch.io/idBxdmVdhR/w/820/h/246/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="100" height="40" alt="Mendix"/></a>
+  <a href="https://www.mendix.com/" target="_blank"><img src="https://cdn.brandfetch.io/idBxdmVdhR/w/820/h/246/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="150" height="40" alt="Mendix"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/></a>
