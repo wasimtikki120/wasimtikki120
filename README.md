@@ -10,9 +10,9 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently diving into **Python, MySQL, Web Development**
+- 🌱 Currently working as a **Mendix Rapid Developer** with expertise in **AWS**, **Python**, **Android**, **Flutter**, and **UI/UX**.
 - 💬 Ask me about:  
-  <code>Python</code> | <code>AWS</code> | <code>MySQL</code> | <code>JavaScript</code> | <code>React</code> | <code>Angular</code> | <code>Bootstrap</code> | <code>Django</code>
+   <code>Mendix</code> | <code>Python</code> | <code>AWS</code> | <code>Android</code> | <code>Flutter</code> | <code>MySQL</code> | <code>MongoDB</code> | <code>UI/UX</code>
 - 📫 Reach out:  
   <a href="mailto:m.wasimtikki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 
@@ -78,7 +78,6 @@
 
 ---
 
----
 
 ### 🎯 Fun Fact
 > 🧠 I don’t need a debugger, I just stare at the code until it confesses.
