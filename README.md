@@ -33,11 +33,7 @@
 </p>
 
 ---
-<style>
-  .tool-icon {
-    margin-right: 20px;
-  }
-</style>
+
 
 ### 🛠️ Languages & Tools
 
