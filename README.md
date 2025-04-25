@@ -64,17 +64,44 @@
 - Designed user-friendly, responsive UIs for asset management systems
 
 **Languages & Frameworks:**
-- Python (Django, Flask)
-- JavaScript (React, Angular, Node.js)
+- Python (Django, Flask, FASTApi)
+- JavaScript
 - Java (Android Development)
 - Dart (Flutter)
 
 **Cloud & DevOps:**
 - AWS (EC2, S3, Lambda, RDS)
-- CI/CD Pipelines, Docker, Linux
+- Docker, Linux, GitHub
 
 **Databases:**
-- MySQL, MongoDB, PostgreSQL
+- MySQL, MongoDB, SQLite
+
+**UI/UX Design:**
+- Created intuitive interfaces focusing on user experience
+- Skilled in wireframing, prototyping, and responsive design principles
+
+---
+
+### 📜 Certifications
+
+- **AWS Certified Cloud Practitioner**  
+  *Issued: June 22, 2022 – Expires: June 22, 2025*  
+  [View Credentials](#)
+
+- **Mendix Rapid Developer**  
+  [View Credentials](#)
+
+- **AWS Cloud Technical Essentials**  
+  [View Credentials](#)
+
+- **AWS Academy Graduate – Cloud Foundations**  
+  [View Credentials](#)
+
+- **Cisco CyberOps Associate**  
+  [View Credentials](#)
+
+- **Python for Developers**  
+  [View Credentials](#)
 
 ---
 
