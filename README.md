@@ -58,11 +58,11 @@ From scalable enterprise apps to mobile and cloud-native solutions, I bridge bus
 ### 🧰 Technical Snapshot
 
 **💼 Mendix Development**
-- 🚀 Built scalable enterprise applications using Mendix Studio Pro  
-- 🧩 Designed dynamic data models, microflows, and logic-driven workflows  
-- 🔗 Integrated REST APIs and external systems for seamless connectivity  
-- 📦 Deployed apps to cloud environments with efficient version control  
-- 💡 Collaborated in agile teams to deliver user-centric solutions with real business impact  
+🚀 Built scalable enterprise applications using Mendix Studio Pro  
+🧩 Designed dynamic data models, microflows, and logic-driven workflows  
+🔗 Integrated REST APIs and external systems for seamless connectivity  
+📦 Deployed apps to cloud environments with efficient version control  
+💡 Collaborated in agile teams to deliver user-centric solutions with real business impact  
 
 **💡 Languages & Frameworks**
 - Python (Django, Flask, FastAPI)
@@ -77,10 +77,10 @@ From scalable enterprise apps to mobile and cloud-native solutions, I bridge bus
 - MySQL, MongoDB, SQLite
 
 **🎨 UI/UX Design**
-- 🖌️ Crafted intuitive, modern UIs for **Mendix apps**, **websites**, **Android**, **Flutter**, and **Framer** applications  
-- 🧠 Focused on clean layouts, responsive design, and accessibility  
-- 🛠️ Tools used: **Adobe XD**, **Canva**, custom assets — no Figma or wireframing tools  
-- 💼 Designed from scratch or enhanced existing interfaces to improve user experience  
+🖌️ Crafted intuitive, modern UIs for **Mendix apps**, **websites**, **Android**, **Flutter**, and **Framer** applications  
+🧠 Focused on clean layouts, responsive design, and accessibility  
+🛠️ Tools used: **Adobe XD**, **Canva**, custom assets — no Figma or wireframing tools  
+💼 Designed from scratch or enhanced existing interfaces to improve user experience  
 
 ---
 
