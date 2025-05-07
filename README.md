@@ -23,6 +23,12 @@ From scalable enterprise apps to mobile and cloud-native solutions, I bridge bus
 
 ---
 
+## 💡 **Philosophy**  
+> *"The best code is no code at all."*  
+> *(When you can use Mendix instead 😉)*  
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="center">
