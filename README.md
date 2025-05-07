@@ -1,38 +1,47 @@
 <h1 align="center">Hi 👋, I'm Mohammad Wasim Tikki</h1>
 
-<h3 align="center">💡 Algorithm: Word used by programmers when they don’t want to explain what they did 😄</h3>
+<h3 align="center">💡 Algorithm: A word programmers use when they don’t want to explain what they did 😄</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wasimtikki120/wasimtikki120/main/wasim-tikki.gif" width="400" alt="Wasim Tikki coding" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wasimtikki120&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🧑‍💻 Mendix Rapid Developer | Passionate about **Cloud, Mobile & UI/UX**
-- 🌱 Currently learning: **AI Integrations** and **Advanced AWS**
-- 💬 Ask me about:
-  <code>Mendix</code> | <code>Python</code> | <code>AWS</code> | <code>Android</code> | <code>Flutter</code> | <code>UI/UX</code>
-- 📫 Email me: <a href="mailto:m.wasimtikki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+👋 I'm a passionate **Mendix Rapid Developer** who loves building smart, scalable, and user-friendly applications.
+
+💼 I specialize in **low-code development**, but my toolbox includes a mix of:
+- 🔧 Backend: Python (Flask, Django, FastAPI)
+- 📱 Mobile: Android (Java), Flutter (Dart)
+- ☁️ Cloud: AWS (EC2, S3, Lambda, RDS)
+- 🎨 Design: UI/UX with Adobe XD & Figma
+- 🛠️ Databases: MySQL, MongoDB, SQLite
+
+🚀 My goal is to simplify complex ideas into clean code and seamless UI — whether it's enterprise solutions or creative mobile apps.
+
+📫 **Let’s connect** and build something meaningful together!
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/tikkiwasim"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohammad-wasim-tikki/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/wasim_tikki"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/tikkiwasim" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-wasim-tikki/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/wasim_tikki" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tools & Technologies
 
 <p align="center">
   <img src="https://cdn.brandfetch.io/idBxdmVdhR/w/820/h/246/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="120" alt="Mendix"/>
@@ -48,45 +57,26 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Technical Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasimtikki120&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasimtikki120&layout=compact&theme=radical" height="150"/>
-</p>
+**💼 Mendix Development**
+- UI configuration, workflow automation, API integration
+- Scalable asset management solutions
 
----
+**💡 Languages & Frameworks**
+- Python (Django, Flask, FastAPI)
+- Dart (Flutter), JavaScript, Java (Android)
 
-### 🏆 GitHub Trophies
+**☁️ Cloud & DevOps**
+- AWS (EC2, S3, Lambda, RDS)
+- Linux, Docker, GitHub
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wasimtikki120&theme=algolia&no-frame=true" />
-</p>
-
----
-
-### 🧰 Technical Overview
-
-#### 🔷 Mendix Development
-- Custom UIs, workflows, data models
-- API integrations, testing & deployment
-- UX-first asset management solutions
-
-#### 💻 Languages & Frameworks
-- **Python** (Django, Flask, FastAPI)
-- **JavaScript**, **Java** (Android)
-- **Dart** (Flutter)
-
-#### ☁️ Cloud & DevOps
-- AWS (EC2, Lambda, RDS, S3)
-- Linux, GitHub
-
-#### 🗃️ Databases
+**📊 Databases**
 - MySQL, MongoDB, SQLite
 
-#### 🎨 UI/UX Design
-- Responsive, user-focused design
-- Wireframes, prototypes, Figma/Adobe XD
+**🎨 UI/UX Design**
+- User-first design using wireframes & prototypes
+- Adobe XD, Figma
 
 ---
 
@@ -107,6 +97,3 @@
 ### 🎯 Fun Fact
 
 > 🧠 I don’t need a debugger. I just stare at the code until it confesses.
-
----
-
