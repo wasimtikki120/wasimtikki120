@@ -3,7 +3,7 @@
 <h3 align="center">💡 Algorithm: Word used by programmers when they don’t want to explain what they did 😄</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="coding" />
+  <img src="./Wasim%20Tikki.gif" width="400" alt="Wasim Tikki coding" />
 </p>
 
 ---
