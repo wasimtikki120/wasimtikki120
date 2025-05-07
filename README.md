@@ -10,18 +10,16 @@
 
 ### 🚀 About Me
 
-👋 I'm a passionate **Mendix Rapid Developer** who loves building smart, scalable, and user-friendly applications.
+👨‍💻 I'm a passionate **Mendix Rapid Developer** with a knack for solving real-world problems through tech.  
+From scalable enterprise apps to mobile and cloud-native solutions, I bridge business needs and modern development.
 
-💼 I specialize in **low-code development**, but my toolbox includes a mix of:
-- 🔧 Backend: Python (Flask, Django, FastAPI)
-- 📱 Mobile: Android (Java), Flutter (Dart)
-- ☁️ Cloud: AWS (EC2, S3, Lambda, RDS)
-- 🎨 Design: UI/UX with Adobe XD & Figma
-- 🛠️ Databases: MySQL, MongoDB, SQLite
+🧠 I believe in clean code, simple UI, and smart automation.  
 
-🚀 My goal is to simplify complex ideas into clean code and seamless UI — whether it's enterprise solutions or creative mobile apps.
+💼 Currently working with:  
+<code>Mendix</code> | <code>AWS</code> | <code>Python</code> | <code>Flutter</code> | <code>Android</code> | <code>MySQL</code> | <code>MongoDB</code> | <code>UI/UX</code>
 
-📫 **Let’s connect** and build something meaningful together!
+📫 Reach out:  
+<a href="mailto:m.wasimtikki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 
 ---
 
@@ -60,23 +58,29 @@
 ### 🧰 Technical Snapshot
 
 **💼 Mendix Development**
-- UI configuration, workflow automation, API integration
-- Scalable asset management solutions
+- 🚀 Built scalable enterprise applications using Mendix Studio Pro  
+- 🧩 Designed dynamic data models, microflows, and logic-driven workflows  
+- 🔗 Integrated REST APIs and external systems for seamless connectivity  
+- 📦 Deployed apps to cloud environments with efficient version control  
+- 💡 Collaborated in agile teams to deliver user-centric solutions with real business impact  
 
 **💡 Languages & Frameworks**
 - Python (Django, Flask, FastAPI)
-- Dart (Flutter), JavaScript, Java (Android)
+- Dart (Flutter), JavaScript
+- Java (Android Development)
 
 **☁️ Cloud & DevOps**
-- AWS (EC2, S3, Lambda, RDS)
-- Linux, Docker, GitHub
+- AWS (EC2, Lambda, RDS, S3)
+- Linux, GitHub
 
-**📊 Databases**
+**🗃️ Databases**
 - MySQL, MongoDB, SQLite
 
 **🎨 UI/UX Design**
-- User-first design using wireframes & prototypes
-- Adobe XD, Figma
+- 🖌️ Crafted intuitive, modern UIs for **Mendix apps**, **websites**, **Android**, **Flutter**, and **Framer** applications  
+- 🧠 Focused on clean layouts, responsive design, and accessibility  
+- 🛠️ Tools used: **Adobe XD**, **Canva**, custom assets — no Figma or wireframing tools  
+- 💼 Designed from scratch or enhanced existing interfaces to improve user experience  
 
 ---
 
