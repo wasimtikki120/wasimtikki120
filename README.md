@@ -1,27 +1,29 @@
-<h1 align="center">Hi 👋, I'm Mohammad Wasim Tikki</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=✨+Mohammad+Wasim+Tikki+✨;🚀+Mendix+Rapid+Developer+%7C+AWS+Certified+%7C+Full+Stack+Enthusiast" alt="Typing SVG" />
+</div>
 
-<h3 align="center">💡 Algorithm: A word programmers use when they don’t want to explain what they did 😄</h3>
+<!-- Animated GIF with Glow Effect -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wasimtikki120/wasimtikki120/main/wasim-tikki.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 20px #00ffaa;" alt="Coding Animation"/>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wasimtikki120/wasimtikki120/main/wasim-tikki.gif" width="400" alt="Wasim Tikki coding" />
-</p>
+<!-- Rainbow Divider -->
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" alt="rainbow divider" width="100%"/>
 
----
-
-### 🚀 About Me
-
-👨‍💻 I'm a passionate **Mendix Rapid Developer** with a knack for solving real-world problems through tech.  
-From scalable enterprise apps to mobile and cloud-native solutions, I bridge business needs and modern development.
-
-🧠 I believe in clean code, simple UI, and smart automation.  
-
-💼 Currently working with:  
-<code>Mendix</code> | <code>AWS</code> | <code>Python</code> | <code>Flutter</code> | <code>Android</code> | <code>MySQL</code> | <code>MongoDB</code> | <code>UI/UX</code>
-
-📫 Reach out:  
-<a href="mailto:m.wasimtikki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-
----
+## 🌟 **About Me**
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Mohammad Wasim Tikki"
+        self.role = "Mendix Rapid Developer"
+        self.passion = "Turning coffee into code"
+        self.skills = ["Mendix", "AWS", "Python", "Flutter", "UI/UX"]
+        
+    def solve_problems(self):
+        while True:
+            yield "Innovative Solution"
+            
+me = Developer()
 
 ## 💡 **Philosophy**  
 > *"The best code is no code at all."*  
